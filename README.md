@@ -1,4 +1,7 @@
 ![summoning](https://github.com/0xmoei/penumbra-testnet/assets/90371338/b7920ab7-7216-4d76-88b2-7d3715153fc4)
+
+<h1 align="center"> Penumbra Ceremony Phase 2 </h1>
+
 پروژه [Penumbra](https://twitter.com/penumbrazone) یه شبکه ماژولار و FHE هست که قابلیت معاملات private و ناشناس تو اکوسیستم Cosmos رو برای ما فراهم می‌کنه و به زودی میننتش لانچ میشه
 
 قبلا فاز 1 سرمونی رو شرکت کرده بودیم و اینبار فاز 2 شروع شده که همه می‌تونن شرکت کنن و افزادی که سری قبلی فاز 2 رو زدن هم به خاطر ریستارت شدن این پراگرم باید از اول این مراحل رو طی کنن
