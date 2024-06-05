@@ -40,7 +40,7 @@ pcli init soft-kms import-phrase
 
 # OR
 
-# Create new wallet
+# Create new wallet (Save seed phrase if you created a new one)
 pcli init soft-kms generate
 ```
 
