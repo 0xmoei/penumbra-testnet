@@ -15,7 +15,7 @@
 ```console
 sudo apt-get update && sudo apt-get upgrade -y 
 sudo apt-get install curl 
-sudo apt-get install build-essential pkg-config libssl-dev clang git-lfs -y
+sudo apt-get install build-essential glibc-source pkg-config libssl-dev clang git-lfs -y
 ```
 
 <h1 align="center"> Install Penumbra </h1>
