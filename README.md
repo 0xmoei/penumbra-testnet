@@ -93,7 +93,7 @@ pcli ceremony contribute --phase 2 --bid 100penumbra
 screen -S pe2
 
 # Start Ceremony
-pcli ceremony contribute --phase 2 --bid 100penumbra
+pcli ceremony contribute --phase 2 --bid 99penumbra
 ```
 Ctrl + A + D
 
