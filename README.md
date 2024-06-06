@@ -22,11 +22,6 @@ sudo apt-get install build-essential glibc-source pkg-config libssl-dev clang gi
 
 ```console
 # Install
-curl -O -L https://github.com/penumbra-zone/penumbra/releases/download/v0.77.2/pcli-x86_64-unknown-linux-gnu.tar.xz
-unxz pcli-x86_64-unknown-linux-gnu.tar.xz
-tar -xf pcli-x86_64-unknown-linux-gnu.tar
-sudo mv pcli-x86_64-unknown-linux-gnu/pcli /usr/local/bin/
-
 curl --proto '=https' --tlsv1.2 -LsSf https://github.com/penumbra-zone/penumbra/releases/download/v0.77.2/pcli-installer.sh | sh
 
 source $HOME/.cargo/env
